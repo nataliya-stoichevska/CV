@@ -8,11 +8,15 @@
 
 ## IT Training:
 
-### [University of Library Studies and Information Technologies](https://www.unibit.bg/en) - [Bachelor Degree in Computer Science](https://github.com/nataliya-stoichevska/CV/blob/main/certificates/Diploma_NatalijaStojchevska.pdf)
+### [University of Library Studies and Information Technologies](https://www.unibit.bg/en)
+
+#### [Bachelor Degree in Computer Science](https://github.com/nataliya-stoichevska/CV/blob/main/certificates/Diploma_NatalijaStojchevska.pdf)
 
 **Advanced Courses**: Databases, SQL, Data Structures, C# programming, OOP, Web technologies
 
-### [Sofia University](https://www.fmi.uni-sofia.bg/en/artificial-intelligence) - [MSc Artificial Intelligence](https://github.com/nataliya-stoichevska/CV/blob/main/certificates/AcademicRecordSU.pdf)
+### [Sofia University](https://www.fmi.uni-sofia.bg/en/artificial-intelligence)
+
+#### [MSc Artificial Intelligence](https://github.com/nataliya-stoichevska/CV/blob/main/certificates/AcademicRecordSU.pdf)
 
 **Advanced Courses (MSc level)**: Data Science, Machine Learning, Natural Language Processing, Knowledge Representation & Reasoning, Knowledge Base, Functional programming with Scala, Image Processing, Semantic Web, SPARQL
 
